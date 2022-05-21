@@ -1,0 +1,6 @@
+POST http://localhost:8080/process
+Content-Type: multipart/form-data;
+
+username=fox&password=123456&login_type=0
+
+###

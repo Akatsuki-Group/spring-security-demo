@@ -1,0 +1,9 @@
+#spring:
+#  security:
+#    user:
+#      name: security
+#      password: 123456
+
+logging:
+  level:
+    org.springframework.security: trace
